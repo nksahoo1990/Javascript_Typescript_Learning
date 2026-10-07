@@ -11,7 +11,7 @@ console.log(url.endsWith("Sahoo"));
 
 // indexof() and lastIndexOf() methods return the index of the first and last occurrence of a specified substring, respectively. If the substring is not found, they return -1.
 console.log(url.indexOf("v"));
-console.log(url.indexOf("vwo")); 
+console.log(url.indexOf("vwo"));
 console.log(url.lastIndexOf("a"));
 
 
@@ -20,6 +20,6 @@ console.log(url.indexOf("Sahoo")); // -1 (not found)
 
 // search() — accepts regex, returns index
 // Search basically works in a way that it searches with regex. 
-console.log(url.search(/login/)); // regex pattern to search for "login" in the URL, and it returns the index of the first occurrence of "login" in the URL. If "login" is not found, it returns -1.
+console.log(url.search(/retry/)); // regex pattern to search for "retry" in the URL, and it returns the index of the first occurrence of "retry" in the URL. If "retry" is not found, it returns -1.
 
 

@@ -11,3 +11,4 @@ console.log(nums);
 nums.sort((a, b) => a - b); // Ascending
 console.log(nums);
 nums.sort((a, b) => b - a);
+console.log(nums);

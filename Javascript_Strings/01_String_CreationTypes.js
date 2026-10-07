@@ -20,6 +20,8 @@ let report = `
   Duration: 320ms
 `;
 
+console.log(report);
+
 // String() constructor (converts other types)
 // String() constructor can be used to convert other types to strings.
 // It can be used to convert numbers, booleans, null, undefined, and even arrays to their string representations.

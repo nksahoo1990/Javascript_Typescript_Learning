@@ -1,6 +1,6 @@
-let day =9;
+let day = 4;
 
-switch(day){
+switch (day) {
     case 1:
         console.log("Monday - Chest Day");
         break;
